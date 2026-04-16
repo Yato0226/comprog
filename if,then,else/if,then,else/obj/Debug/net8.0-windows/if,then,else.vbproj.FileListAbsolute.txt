@@ -1,0 +1,6 @@
+C:\Users\louize\source\repos\comprog\if,then,else\if,then,else\obj\Debug\net8.0-windows\if_then_else.Form1.resources
+C:\Users\louize\source\repos\comprog\if,then,else\if,then,else\obj\Debug\net8.0-windows\if,then,else.vbproj.GenerateResource.cache
+C:\Users\louize\source\repos\comprog\if,then,else\if,then,else\obj\Debug\net8.0-windows\if,then,else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louize\source\repos\comprog\if,then,else\if,then,else\obj\Debug\net8.0-windows\if,then,else.AssemblyInfoInputs.cache
+C:\Users\louize\source\repos\comprog\if,then,else\if,then,else\obj\Debug\net8.0-windows\if,then,else.AssemblyInfo.vb
+C:\Users\louize\source\repos\comprog\if,then,else\if,then,else\obj\Debug\net8.0-windows\if,then,else.vbproj.CoreCompileInputs.cache

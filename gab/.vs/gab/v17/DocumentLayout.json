@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\louize\\source\\repos\\comprog\\gab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC2FE04-896E-45D2-8429-4800A6AC571F}|gab\\gab.vbproj|c:\\users\\louize\\source\\repos\\comprog\\gab\\gab\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0BC2FE04-896E-45D2-8429-4800A6AC571F}|gab\\gab.vbproj|solutionrelative:gab\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC2FE04-896E-45D2-8429-4800A6AC571F}|gab\\gab.vbproj|c:\\users\\louize\\source\\repos\\comprog\\gab\\gab\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0BC2FE04-896E-45D2-8429-4800A6AC571F}|gab\\gab.vbproj|solutionrelative:gab\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC2FE04-896E-45D2-8429-4800A6AC571F}|gab\\gab.vbproj|c:\\users\\louize\\source\\repos\\comprog\\gab\\gab\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0BC2FE04-896E-45D2-8429-4800A6AC571F}|gab\\gab.vbproj|solutionrelative:gab\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\louize\\source\\repos\\comprog\\gab\\gab\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "gab\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\louize\\source\\repos\\comprog\\gab\\gab\\Form1.Designer.vb",
+              "RelativeToolTip": "gab\\Form1.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-14T03:11:34.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\louize\\source\\repos\\comprog\\gab\\gab\\Form1.vb",
+              "RelativeDocumentMoniker": "gab\\Form1.vb",
+              "ToolTip": "C:\\Users\\louize\\source\\repos\\comprog\\gab\\gab\\Form1.vb",
+              "RelativeToolTip": "gab\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-16T23:10:55.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\louize\\source\\repos\\comprog\\gab\\gab\\Form1.vb",
+              "RelativeDocumentMoniker": "gab\\Form1.vb",
+              "ToolTip": "C:\\Users\\louize\\source\\repos\\comprog\\gab\\gab\\Form1.vb [Design]",
+              "RelativeToolTip": "gab\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-16T23:10:37.641Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 974,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

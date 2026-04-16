@@ -1,0 +1,16 @@
+C:\Users\louize\source\repos\comprog\charles\charles\bin\Debug\net8.0-windows\charles.exe
+C:\Users\louize\source\repos\comprog\charles\charles\bin\Debug\net8.0-windows\charles.deps.json
+C:\Users\louize\source\repos\comprog\charles\charles\bin\Debug\net8.0-windows\charles.runtimeconfig.json
+C:\Users\louize\source\repos\comprog\charles\charles\bin\Debug\net8.0-windows\charles.dll
+C:\Users\louize\source\repos\comprog\charles\charles\bin\Debug\net8.0-windows\charles.pdb
+C:\Users\louize\source\repos\comprog\charles\charles\obj\Debug\net8.0-windows\charles.Form1.resources
+C:\Users\louize\source\repos\comprog\charles\charles\obj\Debug\net8.0-windows\charles.vbproj.GenerateResource.cache
+C:\Users\louize\source\repos\comprog\charles\charles\obj\Debug\net8.0-windows\charles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louize\source\repos\comprog\charles\charles\obj\Debug\net8.0-windows\charles.AssemblyInfoInputs.cache
+C:\Users\louize\source\repos\comprog\charles\charles\obj\Debug\net8.0-windows\charles.AssemblyInfo.vb
+C:\Users\louize\source\repos\comprog\charles\charles\obj\Debug\net8.0-windows\charles.vbproj.CoreCompileInputs.cache
+C:\Users\louize\source\repos\comprog\charles\charles\obj\Debug\net8.0-windows\charles.dll
+C:\Users\louize\source\repos\comprog\charles\charles\obj\Debug\net8.0-windows\refint\charles.dll
+C:\Users\louize\source\repos\comprog\charles\charles\obj\Debug\net8.0-windows\charles.pdb
+C:\Users\louize\source\repos\comprog\charles\charles\obj\Debug\net8.0-windows\charles.genruntimeconfig.cache
+C:\Users\louize\source\repos\comprog\charles\charles\obj\Debug\net8.0-windows\ref\charles.dll

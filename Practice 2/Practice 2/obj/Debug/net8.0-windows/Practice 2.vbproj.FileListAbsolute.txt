@@ -1,0 +1,16 @@
+C:\Users\louize\source\repos\comprog\Practice 2\Practice 2\bin\Debug\net8.0-windows\Practice 2.exe
+C:\Users\louize\source\repos\comprog\Practice 2\Practice 2\bin\Debug\net8.0-windows\Practice 2.deps.json
+C:\Users\louize\source\repos\comprog\Practice 2\Practice 2\bin\Debug\net8.0-windows\Practice 2.runtimeconfig.json
+C:\Users\louize\source\repos\comprog\Practice 2\Practice 2\bin\Debug\net8.0-windows\Practice 2.dll
+C:\Users\louize\source\repos\comprog\Practice 2\Practice 2\bin\Debug\net8.0-windows\Practice 2.pdb
+C:\Users\louize\source\repos\comprog\Practice 2\Practice 2\obj\Debug\net8.0-windows\Practice_2.Form1.resources
+C:\Users\louize\source\repos\comprog\Practice 2\Practice 2\obj\Debug\net8.0-windows\Practice 2.vbproj.GenerateResource.cache
+C:\Users\louize\source\repos\comprog\Practice 2\Practice 2\obj\Debug\net8.0-windows\Practice 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louize\source\repos\comprog\Practice 2\Practice 2\obj\Debug\net8.0-windows\Practice 2.AssemblyInfoInputs.cache
+C:\Users\louize\source\repos\comprog\Practice 2\Practice 2\obj\Debug\net8.0-windows\Practice 2.AssemblyInfo.vb
+C:\Users\louize\source\repos\comprog\Practice 2\Practice 2\obj\Debug\net8.0-windows\Practice 2.vbproj.CoreCompileInputs.cache
+C:\Users\louize\source\repos\comprog\Practice 2\Practice 2\obj\Debug\net8.0-windows\Practice 2.dll
+C:\Users\louize\source\repos\comprog\Practice 2\Practice 2\obj\Debug\net8.0-windows\refint\Practice 2.dll
+C:\Users\louize\source\repos\comprog\Practice 2\Practice 2\obj\Debug\net8.0-windows\Practice 2.pdb
+C:\Users\louize\source\repos\comprog\Practice 2\Practice 2\obj\Debug\net8.0-windows\Practice 2.genruntimeconfig.cache
+C:\Users\louize\source\repos\comprog\Practice 2\Practice 2\obj\Debug\net8.0-windows\ref\Practice 2.dll

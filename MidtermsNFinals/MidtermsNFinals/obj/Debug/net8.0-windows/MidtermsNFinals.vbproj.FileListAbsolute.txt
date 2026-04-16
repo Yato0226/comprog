@@ -1,0 +1,16 @@
+C:\Users\louize\source\repos\comprog\MidtermsNFinals\MidtermsNFinals\bin\Debug\net8.0-windows\MidtermsNFinals.exe
+C:\Users\louize\source\repos\comprog\MidtermsNFinals\MidtermsNFinals\bin\Debug\net8.0-windows\MidtermsNFinals.deps.json
+C:\Users\louize\source\repos\comprog\MidtermsNFinals\MidtermsNFinals\bin\Debug\net8.0-windows\MidtermsNFinals.runtimeconfig.json
+C:\Users\louize\source\repos\comprog\MidtermsNFinals\MidtermsNFinals\bin\Debug\net8.0-windows\MidtermsNFinals.dll
+C:\Users\louize\source\repos\comprog\MidtermsNFinals\MidtermsNFinals\bin\Debug\net8.0-windows\MidtermsNFinals.pdb
+C:\Users\louize\source\repos\comprog\MidtermsNFinals\MidtermsNFinals\obj\Debug\net8.0-windows\MidtermsNFinals.Form1.resources
+C:\Users\louize\source\repos\comprog\MidtermsNFinals\MidtermsNFinals\obj\Debug\net8.0-windows\MidtermsNFinals.vbproj.GenerateResource.cache
+C:\Users\louize\source\repos\comprog\MidtermsNFinals\MidtermsNFinals\obj\Debug\net8.0-windows\MidtermsNFinals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louize\source\repos\comprog\MidtermsNFinals\MidtermsNFinals\obj\Debug\net8.0-windows\MidtermsNFinals.AssemblyInfoInputs.cache
+C:\Users\louize\source\repos\comprog\MidtermsNFinals\MidtermsNFinals\obj\Debug\net8.0-windows\MidtermsNFinals.AssemblyInfo.vb
+C:\Users\louize\source\repos\comprog\MidtermsNFinals\MidtermsNFinals\obj\Debug\net8.0-windows\MidtermsNFinals.vbproj.CoreCompileInputs.cache
+C:\Users\louize\source\repos\comprog\MidtermsNFinals\MidtermsNFinals\obj\Debug\net8.0-windows\MidtermsNFinals.dll
+C:\Users\louize\source\repos\comprog\MidtermsNFinals\MidtermsNFinals\obj\Debug\net8.0-windows\refint\MidtermsNFinals.dll
+C:\Users\louize\source\repos\comprog\MidtermsNFinals\MidtermsNFinals\obj\Debug\net8.0-windows\MidtermsNFinals.pdb
+C:\Users\louize\source\repos\comprog\MidtermsNFinals\MidtermsNFinals\obj\Debug\net8.0-windows\MidtermsNFinals.genruntimeconfig.cache
+C:\Users\louize\source\repos\comprog\MidtermsNFinals\MidtermsNFinals\obj\Debug\net8.0-windows\ref\MidtermsNFinals.dll
